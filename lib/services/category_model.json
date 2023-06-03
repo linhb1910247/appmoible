@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {  "name": "Áo thun",
+        "subcategory": [
+                "Polo",
+                "Áo thun nam",
+                "Áo thun nữ"
+            ]
+        },
+        {
+            "name": "Quần Sọt",
+            "subcategory": [
+                "Jeans",
+                "kaki",
+                "Vải"
+            ]
+        },
+        {
+            "name": "Nón",
+            "subcategory": [
+                "Kêt",
+                "Mũ ni"
+                
+
+                
+            ]
+        }, {
+            "name": "Áo Sơ Mi",
+            "subcategory": [
+                "Tay dài",
+                "Tay ngắn",
+                "Form rộng"
+             
+
+                
+            ]
+        },
+        {
+            "name": "Áo khoác",
+            "subcategory": [
+                "Jeans",
+                "Dù",
+                "Lụa"
+            ]
+        },
+        {
+            "name": "Giày",
+            "subcategory": [
+                "Speakers",
+                "Tây","Boots"
+            ]
+        },
+        {
+            "name": "Mặt kinh",
+            "subcategory": [
+                "Răm",
+                "Màu"
+            ]
+        }
+      
+    ]
+}
